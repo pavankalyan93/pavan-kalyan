@@ -6,7 +6,7 @@
 
 ---
 
-I am a seasoned AI/ML engineer with over 10 years of experience designing, developing, and deploying data-driven solutions across Generative AI, Machine Learning, and Data Science[cite: 7]. [cite_start]My expertise lies in building and fine-tuning state-of-the-art LLMs [cite: 8][cite_start], architecting complex AI workflows with tools like LangChain [cite: 9][cite_start], and managing the full MLOps lifecycle[cite: 10]. [cite_start]I am passionate about transforming complex problems into intelligent, scalable AI solutions that drive business value and innovation[cite: 14].
+I am a seasoned AI/ML engineer with over 10 years of experience designing, developing, and deploying data-driven solutions across Generative AI, Machine Learning, and Data Science. My expertise lies in building and fine-tuning state-of-the-art LLMs , architecting complex AI workflows with tools like LangChain, and managing the full MLOps lifecycle I am passionate about transforming complex problems into intelligent, scalable AI solutions that drive business value and innovation.
 
 ### 🛠️ My Tech Stack
 
