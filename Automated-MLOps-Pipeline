@@ -1,0 +1,20 @@
+# Automated MLOps Pipeline for Model Training & Deployment
+
+[cite_start]This project demonstrates a robust, automated MLOps pipeline for continuous training, model versioning, and production rollback[cite: 22]. [cite_start]It is based on my professional experience building end-to-end ML pipelines and deploying scalable AI solutions on the cloud[cite: 52, 79].
+
+### Key Features
+* [cite_start]**Continuous Integration/Continuous Deployment (CI/CD):** Uses GitHub Actions to automate testing, training, and deployment workflows[cite: 22].
+* [cite_start]**Experiment Tracking:** Integrates with MLflow for tracking experiments, logging parameters, and managing model versions[cite: 22, 52].
+* [cite_start]**Containerization:** Uses Docker to containerize the application for consistent, reproducible deployments[cite: 22].
+* [cite_start]**Cloud Deployment:** Designed to be deployed on cloud platforms like AWS, GCP, or Azure using services like Kubernetes for scalable serving[cite: 86, 115].
+
+### Tech Stack
+* [cite_start]**Programming:** Python [cite: 38]
+* [cite_start]**MLOps & Deployment:** MLflow, Docker, Kubernetes, CI/CD (GitHub Actions), Airflow [cite: 38]
+* [cite_start]**Cloud:** AWS (S3, SageMaker), GCP (Vertex AI) or Azure ML [cite: 38]
+* [cite_start]**Machine Learning:** Scikit-learn, XGBoost [cite: 38]
+
+### To-Do / Future Enhancements
+- [ ] Add data and model drift monitoring capabilities.
+- [ ] [cite_start]Integrate data validation tools like Great Expectations[cite: 89].
+- [ ] [cite_start]Expand the pipeline to include a feature store like Feast[cite: 95].
